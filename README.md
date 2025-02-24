@@ -1,6 +1,6 @@
 # FOR EDUCATION PURPOSES ONLY, USE AT YOUR OWN RISK #
 
-##Step 1##
+## Step 1 ##
 Zoom out your screen so that the options and the questions are all on the visible area without scrolling, don't zoom out too far away too
 
 ## Step 2 ##
